@@ -1,0 +1,206 @@
+,Relation,Accuracy,Count,Dataset
+0,above,0.5539033457249071,269,Visual Genome Relation
+1,adjusting,1.0,1,Visual Genome Relation
+2,around,0.3181818181818182,22,Visual Genome Relation
+3,at,0.6,75,Visual Genome Relation
+4,attached to,0.3333333333333333,3,Visual Genome Relation
+5,behind,0.4651567944250871,574,Visual Genome Relation
+6,below,0.5263157894736842,209,Visual Genome Relation
+7,beneath,0.2,10,Visual Genome Relation
+8,beside,0.42857142857142855,56,Visual Genome Relation
+9,between,0.75,4,Visual Genome Relation
+10,bigger than,1.0,1,Visual Genome Relation
+11,biting,1.0,1,Visual Genome Relation
+12,boarding,1.0,2,Visual Genome Relation
+13,brushing,1.0,1,Visual Genome Relation
+14,by,0.44554455445544555,101,Visual Genome Relation
+15,carrying,0.8333333333333334,12,Visual Genome Relation
+16,chewing,1.0,1,Visual Genome Relation
+17,cleaning,1.0,1,Visual Genome Relation
+18,climbing,0.0,1,Visual Genome Relation
+19,close to,0.8,5,Visual Genome Relation
+20,coming from,0.0,5,Visual Genome Relation
+21,coming out of,0.0,1,Visual Genome Relation
+22,contain,0.5,6,Visual Genome Relation
+23,covered by,0.4444444444444444,36,Visual Genome Relation
+24,covered in,0.35714285714285715,14,Visual Genome Relation
+25,covered with,0.375,16,Visual Genome Relation
+26,covering,0.36363636363636365,33,Visual Genome Relation
+27,crossing,0.75,8,Visual Genome Relation
+28,cutting,0.8333333333333334,12,Visual Genome Relation
+29,dragging,1.0,1,Visual Genome Relation
+30,draped over,0.0,1,Visual Genome Relation
+31,drinking,1.0,2,Visual Genome Relation
+32,drinking from,0.0,1,Visual Genome Relation
+33,driving,0.0,1,Visual Genome Relation
+34,driving down,1.0,1,Visual Genome Relation
+35,driving on,0.5,6,Visual Genome Relation
+36,eating,0.6666666666666666,21,Visual Genome Relation
+37,eating from,1.0,4,Visual Genome Relation
+38,eating in,1.0,2,Visual Genome Relation
+39,enclosing,0.0,1,Visual Genome Relation
+40,exiting,1.0,1,Visual Genome Relation
+41,facing,0.6666666666666666,3,Visual Genome Relation
+42,feeding,0.3,10,Visual Genome Relation
+43,filled with,0.6666666666666666,6,Visual Genome Relation
+44,floating in,1.0,3,Visual Genome Relation
+45,floating on,1.0,1,Visual Genome Relation
+46,flying,0.5,4,Visual Genome Relation
+47,flying above,1.0,1,Visual Genome Relation
+48,flying in,1.0,7,Visual Genome Relation
+49,flying over,1.0,1,Visual Genome Relation
+50,flying through,1.0,1,Visual Genome Relation
+51,full of,0.75,4,Visual Genome Relation
+52,going down,1.0,1,Visual Genome Relation
+53,going into,0.0,1,Visual Genome Relation
+54,going through,0.5,2,Visual Genome Relation
+55,grazing in,1.0,2,Visual Genome Relation
+56,grazing on,0.8,10,Visual Genome Relation
+57,growing in,0.3333333333333333,3,Visual Genome Relation
+58,growing on,0.25,8,Visual Genome Relation
+59,guiding,0.0,1,Visual Genome Relation
+60,hanging from,1.0,3,Visual Genome Relation
+61,hanging in,0.0,1,Visual Genome Relation
+62,hanging off,1.0,2,Visual Genome Relation
+63,hanging on,0.7142857142857143,14,Visual Genome Relation
+64,hanging over,0.0,1,Visual Genome Relation
+65,higher than,0.0,1,Visual Genome Relation
+66,holding,0.5915492957746479,142,Visual Genome Relation
+67,holding onto,0.0,1,Visual Genome Relation
+68,hugging,0.3333333333333333,3,Visual Genome Relation
+69,in,0.6370056497175142,708,Visual Genome Relation
+70,in between,1.0,1,Visual Genome Relation
+71,in front of,0.6870748299319728,588,Visual Genome Relation
+72,inside,0.603448275862069,58,Visual Genome Relation
+73,jumping off,0.0,1,Visual Genome Relation
+74,jumping on,1.0,1,Visual Genome Relation
+75,jumping over,0.3333333333333333,3,Visual Genome Relation
+76,kept in,0.0,3,Visual Genome Relation
+77,larger than,1.0,1,Visual Genome Relation
+78,leading,0.5,2,Visual Genome Relation
+79,leaning against,0.7777777777777778,9,Visual Genome Relation
+80,leaning on,0.8333333333333334,12,Visual Genome Relation
+81,leaning over,0.875,8,Visual Genome Relation
+82,leaving,1.0,1,Visual Genome Relation
+83,licking,0.0,1,Visual Genome Relation
+84,longer than,0.0,1,Visual Genome Relation
+85,looking at,0.7419354838709677,31,Visual Genome Relation
+86,looking in,0.7142857142857143,7,Visual Genome Relation
+87,looking into,0.6666666666666666,3,Visual Genome Relation
+88,looking out,1.0,2,Visual Genome Relation
+89,looking over,1.0,1,Visual Genome Relation
+90,looking through,1.0,1,Visual Genome Relation
+91,lying in,0.4666666666666667,15,Visual Genome Relation
+92,lying next to,0.0,1,Visual Genome Relation
+93,lying on,0.65,60,Visual Genome Relation
+94,lying on top of,0.2857142857142857,7,Visual Genome Relation
+95,making,1.0,1,Visual Genome Relation
+96,mixed with,1.0,1,Visual Genome Relation
+97,mounted on,0.6666666666666666,3,Visual Genome Relation
+98,moving,0.0,1,Visual Genome Relation
+99,near,0.5079825834542816,689,Visual Genome Relation
+100,next to,0.46798029556650245,203,Visual Genome Relation
+101,of,0.44141689373297005,367,Visual Genome Relation
+102,on,0.5320665083135392,1684,Visual Genome Relation
+103,on the back of,0.5,4,Visual Genome Relation
+104,on the edge of,0.0,2,Visual Genome Relation
+105,on the front of,0.5,8,Visual Genome Relation
+106,on the other side of,1.0,1,Visual Genome Relation
+107,on the side of,0.5777777777777777,45,Visual Genome Relation
+108,on top of,0.43781094527363185,201,Visual Genome Relation
+109,opening,0.5,2,Visual Genome Relation
+110,painted on,1.0,3,Visual Genome Relation
+111,parked at,0.5,4,Visual Genome Relation
+112,parked beside,1.0,1,Visual Genome Relation
+113,parked by,1.0,3,Visual Genome Relation
+114,parked in,0.7142857142857143,7,Visual Genome Relation
+115,parked in front of,0.6666666666666666,3,Visual Genome Relation
+116,parked near,1.0,2,Visual Genome Relation
+117,parked next to,0.0,4,Visual Genome Relation
+118,parked on,0.7619047619047619,21,Visual Genome Relation
+119,perched on,0.0,2,Visual Genome Relation
+120,petting,0.5,2,Visual Genome Relation
+121,piled on,1.0,1,Visual Genome Relation
+122,playing,0.5,2,Visual Genome Relation
+123,playing in,0.7142857142857143,7,Visual Genome Relation
+124,playing on,0.75,4,Visual Genome Relation
+125,playing with,0.5,4,Visual Genome Relation
+126,pouring,1.0,1,Visual Genome Relation
+127,pulled by,0.2222222222222222,9,Visual Genome Relation
+128,pulling,0.7777777777777778,9,Visual Genome Relation
+129,reaching for,1.0,1,Visual Genome Relation
+130,reading,0.6,5,Visual Genome Relation
+131,reflected in,0.2857142857142857,14,Visual Genome Relation
+132,reflected on,0.5,2,Visual Genome Relation
+133,resting on,0.38461538461538464,13,Visual Genome Relation
+134,riding,0.45098039215686275,51,Visual Genome Relation
+135,riding on,0.25,4,Visual Genome Relation
+136,running in,0.0,1,Visual Genome Relation
+137,running on,0.6666666666666666,3,Visual Genome Relation
+138,running through,0.5,2,Visual Genome Relation
+139,seen through,0.0,1,Visual Genome Relation
+140,sitting at,0.2692307692307692,26,Visual Genome Relation
+141,sitting behind,0.5,2,Visual Genome Relation
+142,sitting beside,0.5,2,Visual Genome Relation
+143,sitting by,0.0,3,Visual Genome Relation
+144,sitting in,0.4782608695652174,23,Visual Genome Relation
+145,sitting in front of,0.75,4,Visual Genome Relation
+146,sitting near,0.6666666666666666,3,Visual Genome Relation
+147,sitting next to,0.5,4,Visual Genome Relation
+148,sitting on,0.6171428571428571,175,Visual Genome Relation
+149,sitting on top of,0.7,10,Visual Genome Relation
+150,sitting under,0.5,2,Visual Genome Relation
+151,skiing down,1.0,1,Visual Genome Relation
+152,skiing on,1.0,2,Visual Genome Relation
+153,sleeping in,0.0,1,Visual Genome Relation
+154,sleeping on,0.4,5,Visual Genome Relation
+155,smiling at,0.0,1,Visual Genome Relation
+156,sniffing,0.5,2,Visual Genome Relation
+157,splashing,0.0,1,Visual Genome Relation
+158,sprinkled on,1.0,1,Visual Genome Relation
+159,stacked on,0.0,1,Visual Genome Relation
+160,standing against,1.0,3,Visual Genome Relation
+161,standing around,1.0,1,Visual Genome Relation
+162,standing behind,0.6666666666666666,6,Visual Genome Relation
+163,standing beside,0.5,4,Visual Genome Relation
+164,standing by,0.3333333333333333,12,Visual Genome Relation
+165,standing in,0.6610169491525424,59,Visual Genome Relation
+166,standing in front of,0.6,5,Visual Genome Relation
+167,standing near,0.7142857142857143,7,Visual Genome Relation
+168,standing next to,0.42857142857142855,7,Visual Genome Relation
+169,standing on,0.6346153846153846,52,Visual Genome Relation
+170,staring at,0.5,2,Visual Genome Relation
+171,stuck in,0.6666666666666666,3,Visual Genome Relation
+172,surrounded by,0.42857142857142855,14,Visual Genome Relation
+173,surrounding,0.5,8,Visual Genome Relation
+174,swimming in,1.0,2,Visual Genome Relation
+175,swinging,0.3333333333333333,6,Visual Genome Relation
+176,talking to,0.6666666666666666,3,Visual Genome Relation
+177,to the left of,0.5043276062524221,7741,Visual Genome Relation
+178,to the right of,0.49554321147138614,7741,Visual Genome Relation
+179,topped with,0.6666666666666666,3,Visual Genome Relation
+180,touching,0.42857142857142855,7,Visual Genome Relation
+181,traveling down,1.0,1,Visual Genome Relation
+182,traveling on,1.0,1,Visual Genome Relation
+183,tying,0.5,2,Visual Genome Relation
+184,typing on,1.0,1,Visual Genome Relation
+185,under,0.5454545454545454,132,Visual Genome Relation
+186,underneath,0.8333333333333334,6,Visual Genome Relation
+187,using,0.47368421052631576,19,Visual Genome Relation
+188,wading in,1.0,2,Visual Genome Relation
+189,waiting for,1.0,2,Visual Genome Relation
+190,walking across,1.0,1,Visual Genome Relation
+191,walking by,0.0,1,Visual Genome Relation
+192,walking down,0.75,4,Visual Genome Relation
+193,walking in,0.7,10,Visual Genome Relation
+194,walking next to,1.0,2,Visual Genome Relation
+195,walking on,0.7894736842105263,19,Visual Genome Relation
+196,walking through,1.0,1,Visual Genome Relation
+197,watching,0.45454545454545453,22,Visual Genome Relation
+198,wearing,0.4720758693361433,949,Visual Genome Relation
+199,with,0.5446428571428571,112,Visual Genome Relation
+200,working in,1.0,1,Visual Genome Relation
+201,working on,0.3333333333333333,6,Visual Genome Relation
+202,worn on,0.5,2,Visual Genome Relation
+203,wrapped around,1.0,1,Visual Genome Relation
+204,wrapped in,0.5,2,Visual Genome Relation
